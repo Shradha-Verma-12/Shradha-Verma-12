@@ -8,7 +8,9 @@ Hi, I'm Shradha Verma
 
 - 📫 Reach out to me through my socials given below:
 
-  https://www.instagram.com/shradha.e.i.o.u/        https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
+   Instagram: https://www.instagram.com/shradha.e.i.o.u/     
+   LinkedIn: https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
+   
 
 
 
