@@ -1,4 +1,4 @@
-Hi, I'm Shradha Verma 
+## Hi there I Am Shradha Verma <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 
 - 👋 I'm a budding coder and a forever learner.
