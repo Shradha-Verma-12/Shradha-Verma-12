@@ -7,19 +7,17 @@
 - 💞️ I’m looking to collaborate on anything and everything that adds value to my learning process.
 
 - 📫 Reach out to me through my socials given below:
-
-
-
    [![Linkedin Badge](https://img.shields.io/badge/-Shradha-Verma-12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
    )](https://www.linkedin.com/in/shradha-verma-37ab0b1b6/) 
    [![Instagram Badge](https://img.shields.io/badge/-@Shradha-Verma-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shradha.e.i.o.u/)](https://www.instagram.com/shradha.e.i.o.u/) 
    
    
+   
    ### Languages:
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<br><br>
 
-<br>
 ### 📈 Github Stats:
 <hr/>
 
@@ -31,8 +29,8 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shradha-Verma-12&layout=compact&theme=blue-green" />
 </a>
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shradha-Verma-12)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shradha-Verma-12)](https://git.io/streak-stats)
 
   
    
