@@ -10,7 +10,9 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shradha-Verma-12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shradha-verma-37ab0b1b6/)](https://www.linkedin.com/in/arijitparia2002/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shradha-Verma-12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
+   )](https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
+   ) 
 
    Instagram: https://www.instagram.com/shradha.e.i.o.u/    
    
