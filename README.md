@@ -13,6 +13,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Shradha-Verma-12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
    )](https://www.linkedin.com/in/shradha-verma-37ab0b1b6/
    ) 
+   
+   [![Instagram Badge](https://img.shields.io/badge/-@Shradha-Verma-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shradha.e.i.o.u/)](https://www.instagram.com/shradha.e.i.o.u/) 
 
    Instagram: https://www.instagram.com/shradha.e.i.o.u/    
    
