@@ -1,5 +1,5 @@
 ## Hi there I Am Shradha Verma <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=Shradha-Verma-12&color=blue)
+![](https://komarev.com/ghpvc/?username=Shradha-Verma-12&color=red)
 
 
 - 👋 I'm a budding coder and a forever learner.
