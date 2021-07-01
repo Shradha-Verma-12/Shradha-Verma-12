@@ -10,7 +10,7 @@
 - 📫 Reach out to me through my socials given below:
  
   [![Linkedin Badge](https://img.shields.io/badge/-ShradhaVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shradha-verma/)](https://www.linkedin.com/in/shradha-verma/) 
- [![Instagram Badge](https://img.shields.io/badge/-@shradhaverma-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shradha.e.i.o.u)](https://www.instagram.com/shradha.e.i.o.u) 
+ [![Instagram Badge](https://img.shields.io/badge/-@ShradhaVerma-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shradha.e.i.o.u)](https://www.instagram.com/shradha.e.i.o.u) 
    
    
   
