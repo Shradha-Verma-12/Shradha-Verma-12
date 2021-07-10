@@ -17,6 +17,7 @@
 ### Languages:
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="left" alt="JAVA" width="30px" src="https://www.bing.com/images/search?view=detailV2&ccid=cR9lTZZu&id=067B3153AF4F67BFDEC2D99515742862CDC9BE3E&thid=OIP.cR9lTZZuKdpXY5nMjYc6ngHaMg&mediaurl=https%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fJava_logo.png&exph=5000&expw=2960&q=java+logo+png&simid=608011444739645998&ck=0473DDF581939B7E5621B67148BE51B4&selectedIndex=0&FORM=IRPRST&ajaxhist=0&ajaxserp=0" />
 <br><br>
 
 ### 📈 Github Stats:
